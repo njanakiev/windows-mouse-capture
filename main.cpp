@@ -4,8 +4,6 @@
 #include <string>
 #include <fstream>
 
-#define OUTPUT_PATH "C:\\MouseCapture\\capture.csv"
-
 using namespace std;
 
 typedef struct pointInfo {
